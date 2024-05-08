@@ -1,0 +1,17 @@
+.container {
+  width: 500px;
+}
+
+.input-styles {
+  width: 400px;
+  height: 30px;
+  position: relative;
+  margin-top: 20px;
+}
+.card-container {
+  width: inherit;
+  height: 387px;
+  overflow: auto;
+  box-sizing: border-box;
+  padding: 0 10px;
+}

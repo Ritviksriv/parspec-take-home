@@ -1,0 +1,29 @@
+.borderStyle {
+  border: 1px solid black;
+  padding: 10px;
+  line-height: 25px;
+}
+
+.selectedStyle {
+  border: 1px solid black;
+  padding: 10px;
+  line-height: 25px;
+  background: #ffff99;
+}
+
+.empty-styles {
+  width: 400px;
+}
+
+.card-container {
+  width: inherit;
+  height: 387px;
+  overflow: auto;
+  box-sizing: border-box;
+  padding: 0 10px;
+}
+
+.highlighted-text-style {
+  font-weight: 500;
+  text-align: left;
+}
